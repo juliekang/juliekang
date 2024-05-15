@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Engineering Manager** with experience in **full-stack web development, data management, and incident response**. I love developing exceptional people, processes, systems, and cross-functional collaboration.
+I'm a passionate **Engineering Manager** with experience in full-stack **web development**, **data management**, and **incident response**. I love developing exceptional people, processes, systems, and cross-functional collaboration.
 
 - :anatomical_heart: Core Values: **Integrity** | **Curiosity** | **Kindness**
 - :office: Currently: Staff Engineering Manager, @GitHub (just started in April)

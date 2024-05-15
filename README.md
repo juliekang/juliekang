@@ -1,8 +1,8 @@
-![My Banner Image](https://github.com/juliekang/juliekang/assets/4149077/4263b080-6eaa-4f6a-a831-842dc5f946e8)
-
-## About Me 🚀
+# Hi, I'm Julie (she/they)!
 
 I'm a passionate **Engineering Manager** with experience in full-stack **web development**, **data management**, and **incident response**. I love developing exceptional people, processes, systems, and cross-functional collaboration.
+
+## About Me 🚀
 
 - :anatomical_heart: Core Values: **Integrity** | **Curiosity** | **Kindness**
 - :office: Currently: Staff Engineering Manager, @GitHub (just started in April)

@@ -1,6 +1,6 @@
 # Hi, I'm Julie (she/they)!
 
-I'm a passionate **Engineering Manager** with experience in full-stack **web development**, **data management**, and **incident response**. I love developing exceptional people, processes, systems, and cross-functional collaboration.
+I'm a passionate **Engineering Leader** with experience in full-stack **web development**, **data management**, and **incident response**. I love developing exceptional people, processes, systems, and cross-functional collaboration.
 
 ## About Me 🚀
 

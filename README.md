@@ -13,4 +13,3 @@ I'm a passionate **Engineering Leader** with experience in full-stack **web deve
 
 - **[Coaching Site](https://coachjuliekang.com/)**
 - **[LinkedIn](https://linkedin.com/in/juliekang)**
-- **[Instagram](https://www.instagram.com/juliejkang/)**

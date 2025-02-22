@@ -6,7 +6,7 @@ I'm a passionate Engineering Leader with experience in full-stack **web developm
 
 - :anatomical_heart: Core Values: Integrity | Curiosity | Kindness
 - :office: Currently: Staff Engineering Manager, [@GitHub](https://github.com/github) (just started in April)
-- :city_sunset: Formerly: Head of Eng [@chordcommerce](https://github.com/chordcommerce), EM [@mailchimp](https://github.com/mailchimp), Dev [@LBNL-ETA](https://github.com/LBNL-ETA), [@minted](https://github.com/minted)
+- :city_sunset: Formerly: Head of Eng [@chordcommerce](https://github.com/chordcommerce), EM [@mailchimp](https://github.com/mailchimp), Dev [@jgi-bioinformatics](https://github.com/jgi-bioinformatics), [@minted](https://github.com/minted)
 - :computer: Languages: Python, Ruby, Perl, and a couple of the JSs
 
 ## 📬 Get in Touch 
